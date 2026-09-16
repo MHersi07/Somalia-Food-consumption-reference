@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 MHersi07
+Copyright (c) 2026 Mohamed Aden Hersi and Osman Abubakar Fiidow
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+SCOPE OF THIS LICENCE
+
+This licence covers the analysis code in this repository and nothing else.
+It does not extend to, and this repository does not redistribute:
+
+  - The SIHBS 2022 microdata, which are the property of the Somali National
+    Bureau of Statistics (SNBS) and are available from the SNBS microdata
+    portal subject to registration and approval by SNBS.
+  - The SIHBS unit codebook, which is published in the SIHBS questionnaire
+    (SNBS).
+  - The non-standard-unit conversion factors, which are published in the
+    Somalia Poverty Report 2023, Appendix 2.1, Table B1 (SNBS and World Bank).
+
+These materials must be obtained from their respective sources. The code reads
+them from paths supplied by the user at runtime.
