@@ -1,3 +1,4 @@
+"""
 sihbs_consumption.py
 ====================
 
